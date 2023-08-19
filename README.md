@@ -15,9 +15,13 @@ The aim of this case study is to demonstrate the process of performing Species D
 
 1. **Add Species Occurrence Data**
 
+<img src="IMG/IMG02.png" style="max-width:100%;">
+
 2. **Define Area of Interest**
 
 3. **Add Predictive Variables**
+
+<img src="IMG/IMG03.png" style="max-width:100%;">
 
 4. **Generate Pseudo-Absence Data**
    - 4.1. Generate Random Pseudo-Absence Data in the Entire Area of Interest
@@ -26,7 +30,11 @@ The aim of this case study is to demonstrate the process of performing Species D
 
 5. **Fit SDM Model**
 
+<img src="IMG/IMG01.png" style="max-width:100%;">
+
 6. **Calculate Variable Importance**
+
+<img src="IMG/IMG04.png" style="max-width:100%;">
 
 7. **Predict with SDM Model**
 
