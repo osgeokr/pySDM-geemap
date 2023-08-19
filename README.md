@@ -30,7 +30,7 @@ The aim of this case study is to demonstrate the process of performing Species D
 
 7. **Predict with SDM Model**
 
-8. **Evaluate Accuracy**
+8. **Accuracy Assessment**
 
 9. **Custom Binary Distribution Mapping Based on Optimal Threshold**
 
