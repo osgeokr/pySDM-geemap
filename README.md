@@ -43,3 +43,5 @@ The aim of this case study is to demonstrate the process of performing Species D
 9. **Custom Binary Distribution Mapping Based on Optimal Threshold**
 
 10. **Export Results**
+
+## [View Jupyter Notebook File](https://github.com/osgeokr/pySDM-geemap/blob/main/pySDM-geemap_Case%20Study%201_Pitta%20nympha.ipynb)
